@@ -38,14 +38,12 @@ To run this program, you will need:
 
 ```bash
    javac *.java
-
    ```
 
 3. Run the program:
 
 ```bash
    java Main
-
    ```
 
 ## Notes
