@@ -36,13 +36,13 @@ To run this program, you will need:
 
 2. Compile the Java source files:
 
-```bash
+   ```bash
    javac *.java
    ```
 
 3. Run the program:
 
-```bash
+   ```bash
    java Main
    ```
 
